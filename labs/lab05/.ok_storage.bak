@@ -1,0 +1,5 @@
+'replace_elements-correct', (0, 66)
+'flatten-correct', (512, 66)
+'couple-correct', (1024, 66)
+'insert_items-correct', (1536, 66)
+'List Mutation-correct', (2048, 66)
